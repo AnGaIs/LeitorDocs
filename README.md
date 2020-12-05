@@ -1,5 +1,4 @@
-
-## Live Coding - Instruções e auxílios para rodar o projeto
+# Leitor de Documentos
 
 ### 1) Para instalar o NodeJS
 - [https://github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm) (Linux e Mac) - Mais fácil para gerenciar as versões do NodeJS na máquina
